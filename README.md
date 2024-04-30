@@ -3,7 +3,7 @@ A set managing application for Project+, complete with customizable stagelists! 
 
 # How to Use
 1. Open Stagelist.txt and modify with your own starters and counterpicks.
-  You must have at least 2 Starters and 1 Counterpick (because that way there are actually stages to ban and whatnot).
+  - You must have at least 2 Starters and 1 Counterpick (because that way there are actually stages to ban and whatnot).
 2. Open set-manager.exe and change the settings to your liking (Player names and set type)
 3. Press Start when ready.
 4. The program will automatically randomize RPS and prompt players to ban.
