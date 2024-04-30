@@ -1,0 +1,51 @@
+{
+  "bans": [
+    {
+      "count": 2,
+      "pattern": [
+        1
+      ]
+    },
+    {
+      "count": 3,
+      "pattern": [
+        1,
+        1
+      ]
+    },
+    {
+      "count": 4,
+      "pattern": [
+        1,
+        2
+      ]
+    },
+    {
+      "count": 5,
+      "pattern": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "count": 6,
+      "pattern": [
+        1,
+        2,
+        1,
+        1
+      ]
+    },
+    {
+      "count": 7,
+      "pattern": [
+        1,
+        2,
+        2,
+        1
+      ]
+    }
+  ]
+}
+
